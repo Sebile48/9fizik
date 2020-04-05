@@ -51,3 +51,15 @@ son oarak kurabiyeleri 10 dakika pişirin
 
 
 100gram=501,9 kcal
+
+
+
+
+
+AİLE VÜCUT KİTLE ENDEKSİ:
+           KİLO         BOY       VÜCUT KİTLE ENDEKSİ
+ben:        51          1.59             20,17
+annem:      65          1.54             27,41
+babam:      75          1.67             26,89
+kardeşim:   25          1.28             15,26
+kardeşim:   30          1.40             15,31
